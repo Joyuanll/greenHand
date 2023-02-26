@@ -2,7 +2,9 @@
 
 ## 运行项目问题事项记录
 
-1、文件导入报错问题，tsconfig.json--->compilerOptions.module=ES2020
+1、文件导入报错问题，import.meta.env.BASE_URL, 未找到 env[yuque]https://own-space.yuque.com/id3xik/gg0m7x/rrm2s401kot20tvo?singleDoc#
+2、ts 文件导入 vue，未找到模块问题[yuque]https://own-space.yuque.com/id3xik/gg0m7x/rrm2s401kot20tvo?singleDoc#
+3、npm run dev 遇到问题，可尝试确认 node 版本是否高于 15，18 版本无问题，14.17.2 报错
 
 # own-space
 
